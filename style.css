@@ -27,6 +27,11 @@ body {
   opacity: 1;
 }
 
+.navbar-brand {
+  position: relative;
+  bottom: 15px;
+}
+
 .slideshow {
   display: flex;
   align-items: center;
