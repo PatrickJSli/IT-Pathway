@@ -11,8 +11,7 @@ body {
 }
 
 .navigation-header {
-  background-color: black;
-  opacity: .75;
+  background-color: #000000bf;
   position: fixed;
   width: 100%;
   z-index: 2;
@@ -24,7 +23,7 @@ body {
 }
 
 .navigation-header:hover {
-  opacity: 1;
+  background-color: #000000ff;
 }
 
 .slideshow {
