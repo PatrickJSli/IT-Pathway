@@ -16,6 +16,11 @@ body {
   position: fixed;
   width: 100%;
   z-index: 2;
+  height: 100px;
+}
+
+.navtext {
+  margin-top: -19px;
 }
 
 .navigation-header:hover {
