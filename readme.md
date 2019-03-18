@@ -1,7 +1,7 @@
-# IT Pahtway Website
+# IT Pathway Website
 > Short blurb about what your product does.
 
-[description]
+Our product is a website for the AET IT Pathway.
 
 ## Commit Log
 
