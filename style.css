@@ -3,8 +3,21 @@ body {
   font-weight: 300;
 }
 
+#twitter_embed {
+  overflow: scroll;
+  height: 400px;
+  width: 95%;
+  margin: auto;
+}
+
 .navigation-header {
   background-color: black;
+  opacity: .75;
+  z-index: 3;
+}
+
+.navigation-header:hover {
+  opacity: 1;
 }
 
 .slideshow {
