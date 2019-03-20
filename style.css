@@ -39,7 +39,7 @@ body {
 .slideshow {
   display: flex;
   align-items: center;
-  background-image: url(AET_Building.jpg);
+  background-image: url(AET_Building.png);
   background-size: cover;
   max-width: 100%;
   height: 800px;
@@ -88,10 +88,20 @@ body {
   background-color: #9d7fe6;
 }
 
-.title {
-  background-color: rgba(100,100,100,.2);
+.title p {
+  background-color: rgba(0,0,0,.4);
   background-blend-mode: lighten;
   text-align: center;
+  color: white;
+  width: 40%;
+  margin: auto;
+}
+
+.title h2 {
+  background-color: rgba(0,0,0,.4);
+  background-blend-mode: lighten;
+  text-align: center;
+  color: white;
   width: 30%;
   margin: auto;
 }
