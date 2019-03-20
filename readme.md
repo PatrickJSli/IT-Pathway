@@ -22,7 +22,7 @@
     * update height of header image (Tamsen)    
     * Merge branch 'master' (Patrick)
     * update link colors and height of header image (Tamsen)
-    * Merge branch 'master' Patrick)
+    * Merge branch 'master' (Patrick)
     * added basic footer to home page (Patrick)
     * Merge branch 'master' (Patrick)
     * update formatting of title and replace header image (Tamsen)    
