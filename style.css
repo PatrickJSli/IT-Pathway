@@ -82,6 +82,7 @@ body {
 .boxes, .boxes-clubs h2{
   background-color: blue;
   margin: auto;
+  font-size: 1.9em;
 }
 
 .boxes-clubs {
@@ -128,6 +129,14 @@ body {
   color: white;
   width: 35%;
   margin: auto;
+}
+
+#title-aca h2{
+  width: 27%;
+}
+
+#title-aca img {
+  margin: 10px;
 }
 
 header {
