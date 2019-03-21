@@ -220,12 +220,19 @@ section .row img {
 }
 
 .footer {
+  display: inline;
   text-align: center;
 }
+
 .footer-text {
+  font-weight: bold;
+  margin-top: 50px;
   display: inline-block;
   padding: 20px;
+  background-color: gray;
+  width: 100%;
 }
+
 .flip-card {
   padding-left: 100px;
   padding-right: 100px;
@@ -280,5 +287,5 @@ section .row img {
   width: 100%;
 }
 .teachers img{
-  width: 80%
+  width: 80%;
 }
