@@ -289,3 +289,6 @@ section .row img {
 .teachers img{
   width: 80%;
 }
+.news, .events, .twitter, .description {
+  min-height: 520px;
+}
