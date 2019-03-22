@@ -1,6 +1,8 @@
 # IT Pathway Website
 > Our product is a website for the AET IT Pathway.
 
+## Website link
+https://patrickjsli.github.io/IT-Pathway/
 
 ## Commit Log
 
@@ -27,10 +29,18 @@
     * Merge branch 'master' (Patrick)
     * update formatting of title and replace header image (Tamsen)    
     * add building photo (Tamsen)
-    * added faculty page with flipping cards (Patrick)
-* 0.1.3 03-21-2019
-    * redesigned footer (Patrick)
-    * removed unnecessary javascript links (Patrick)
-    * applied new footer to every page (Patrick)
-    * applied min-height to homepage elements for better spacing (Patrick)
-    
+* 0.1.3 03-22-2019
+
+## Customer Requests
+During a meeting with Mr. Lewis, he requested the following changes:
+* Detailed information about the program and specific classes should not be included.
+* There should not be any sections relating to applying to ACL
+* The curriculum descriptions should be general and not go into the the specifics of the class, in part because much of the curriculum for AET is still in development
+
+## Status
+* Incomplete features as of now:
+    * ?
+* Time needed to complete said features:
+    * ?
+* Help needed: none
+.
