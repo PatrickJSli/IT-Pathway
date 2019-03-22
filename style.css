@@ -314,6 +314,11 @@ section .row img {
   background-image: url(AET_Building.png);
   background-size: cover;
 }
+
+.club-background:hover {
+  -webkit-transform: scale(1.1);
+  transform: scale(1.1);
+}
 .club-content {
   font-size: 24px;
   margin-left: 15%;
