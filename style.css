@@ -292,3 +292,17 @@ section .row img {
 .news, .events, .twitter, .description {
   min-height: 520px;
 }
+.club-background {
+  min-height: 600px;
+  display: flex;
+  align-items: center;
+  background-image: url(AET_Building.png);
+  background-size: cover;
+}
+.club-content {
+  font-size: 25px;
+  margin: 50px;
+  padding-top: 200px;
+  padding-bottom: 200px;
+  overflow: auto;
+}
