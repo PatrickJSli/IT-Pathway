@@ -27,3 +27,10 @@
     * Merge branch 'master' (Patrick)
     * update formatting of title and replace header image (Tamsen)    
     * add building photo (Tamsen)
+    * added faculty page with flipping cards (Patrick)
+* 0.1.3 03-21-2019
+    * redesigned footer (Patrick)
+    * removed unnecessary javascript links (Patrick)
+    * applied new footer to every page (Patrick)
+    * applied min-height to homepage elements for better spacing (Patrick)
+    
