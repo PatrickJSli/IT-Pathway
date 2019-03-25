@@ -395,7 +395,12 @@ section .row img {
   background-color: #54dcda;
 }
 
-.body-faculty {
-  position: relative;
-  top: -99px;
+
+.boxes-faculty {
+  color: white;
+  text-align: center;
+}
+
+.boxes-faculty h2 {
+  font-size: 60px;
 }
