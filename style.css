@@ -8,7 +8,7 @@ body {
 
 #twitter_embed {
   overflow: scroll;
-  height: 400px;
+  height: 385px;
   width: 95%;
   margin: auto;
 }
@@ -91,6 +91,20 @@ body {
   font-size: 1.9em;
 }
 
+.homebox {
+  border: 8px solid white;
+  border-radius: 6px;
+  box-sizing: border-box;
+}
+
+.homebox h2 {
+  margin-top: 0px;
+}
+.test-b {
+  background-image: url("background-test.png");
+  background-repeat: repeat;
+
+}
 .boxes-clubs {
   margin-top: -70px;
 }
@@ -128,7 +142,7 @@ body {
 }
 
 .twitter h2 {
-  background-color: #9d7fe6;
+  background-color: #4169e1;
 }
 
 .title p {
