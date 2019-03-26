@@ -84,7 +84,7 @@ body {
 }
 
 .boxes-events {
-  padding-top: 150px;
+  padding-top: 0px;
 }
 
 .boxes, .boxes-clubs, .boxes-events {
@@ -106,10 +106,13 @@ body {
 
 .homebox h2 {
   margin-top: 0px;
+  font-size: 40px;
+  font-weight: bold;
 }
 
 .homebox p {
   margin: 0px 10px;
+  font-size: 20px !important;
 }
 
 .test-b {
@@ -468,7 +471,7 @@ section .row img {
 /* back, initially hidden pane */
 .back {
 	transform: rotateY(180deg);
-  background-color: #54dcda;
+  background-color: #4169e1;
 }
 
 
