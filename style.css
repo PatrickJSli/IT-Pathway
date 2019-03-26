@@ -21,6 +21,12 @@ body {
   height: 100px;
 }
 
+#it-img {
+  width: 90%;
+  height: 170px;
+  object-fit: cover;
+}
+
 .navigation-header a {
   color: #55a7eb;
 }
@@ -150,14 +156,14 @@ body {
 }
 
 .col-sm-4 h3{
-  background-color: #e0cc47;
+  background-color: #7da1aa;
   padding: 4px 0px;
   margin-top: -5px;
   margin-bottom: 0px;
 }
 
 .col-sm-4 h3:hover{
-  background-color: #c9b52a;
+  background-color: #648e99;
 }
 
 .twitter h2 {
