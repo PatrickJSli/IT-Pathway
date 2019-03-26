@@ -432,3 +432,13 @@ section .row img {
 .boxes-faculty h2 {
   font-size: 60px;
 }
+.class-box {
+  text-align: center;
+  margin-top: 5vh;
+}
+.class-content {
+  position: relative;
+  top: 50px;
+  overflow: visible;
+  margin-bottom: 20px;
+}
