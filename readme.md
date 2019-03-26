@@ -2,7 +2,7 @@
 > Our product is a website for the AET IT Pathway.
 
 ## Website link
-https://Pjatrickjsli.github.io/IT-Pathway/
+https://Patrickjsli.github.io/IT-Pathway/
 
 ## Commit Log
 
@@ -36,31 +36,32 @@ https://Pjatrickjsli.github.io/IT-Pathway/
     * applied new footer to every page (Patrick)
     * applied min-height to homepage elements for better spacing (Patrick)
 * 0.1.4 03-22-2019
-    *  Merge branch 'master' of https://github.com/PjatrickJSli/IT-Pathway (Patrick)
-    *  Merge branch 'master' of https://github.com/PjatrickJSli/IT-Pathway (Patrick)
+    *  Merge branch 'master' of https://github.com/PatrickJSli/IT-Pathway (Patrick)
+    *  Merge branch 'master' of https://github.com/PatrickJSli/IT-Pathway (Patrick)
     *  create baseline for the events page (Tamsen)
     *  minorly change to remove unwanted scrollbar (Patrick)
     *  fix problem with uncentered headings (Patrick)
     *  update club page to contain linking sections to separate club websites (Patrick)
     *  update readme to fit with rubric (Tamsen)
-    *  Merge branch 'master' of https://github.com/PjatrickJSli/IT-Pathway (Tamsen)
+    *  Merge branch 'master' of https://github.com/PatrickJSli/IT-Pathway (Tamsen)
     *  add website link to readme (Tamsen)
 * 0.1.5 03-25-2019
-    *  Merge branch 'master' of https://github.com/PjatrickJSli/IT-Pathway (Patrick)
+    *  Merge branch 'master' of https://github.com/PatrickJSli/IT-Pathway (Patrick)
     *  add links to each of the class descriptions (Patrick)
     *  change image overlay text size as requested by user (Patrick)
     *  format font on academic page (Patrick)
     *  add events/news to homepage (Tamsen)
-    *  Merge branch 'master' of https://github.com/PjatrickJSli/IT-Pathway (Tamsen)
+    *  Merge branch 'master' of https://github.com/PatrickJSli/IT-Pathway (Tamsen)
     *  add sponsors to get involved page (Tamsen)
     *  add credits and course description to each of the classes (Patrick)
     *  format class information on academics page (Patrick)
-    *  Merge branch 'master' of https://github.com/PjatrickJSli/IT-Pathway (Patrick) add course descriptions (Patrick)
+    *  Merge branch 'master' of https://github.com/PatrickJSli/IT-Pathway (Patrick)
+    *  add course descriptions (Patrick)
     *  basic template for the information section of the academics page (Patrick)
     *  fix header spacing (Tamsen)
     *  remove get involved image (Tamsen)
     *  fix weird text (Tamsen)
-    *  Merge branch 'master' of https://github.com/PjatrickJSli/IT-Pathway (Tamsen)
+    *  Merge branch 'master' of https://github.com/PatrickJSli/IT-Pathway (Tamsen)
     *  update titles and backgrounds (Tamsen)
     *  fixed conflict errors with the style of headings on the academics page (Patrick)
     *  Merge branch 'master' of https://github.com/PjatrickJSli/IT-Pathway (Patrick)
@@ -78,6 +79,11 @@ https://Pjatrickjsli.github.io/IT-Pathway/
     *  update home page (Tamsen)
     *  fix image transparency (Tamsen)
     *  add geometric background (Tamsen)
+0.1.6 3-26-2019
+    *  changed academic headers to resize better (Patrick)
+    *  added more relevant photos to the academics page (Patrick)
+    *  added more relevant photos to the club page (Patrick)
+    *  minor aesthetic changes across all the pages (Patrick)
 
 ## Customer Requests
 During a meeting with Mr. Lewis, he requested the following changes:
