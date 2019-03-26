@@ -145,14 +145,26 @@ body {
   padding: 4px 0px;
 }
 
+.programming-comp h2, .ninth h2, .twelth h2 {
+  font-size: 60px;
+}
+
 .events h2, .bioinfo h2, .blahtest h2, #month h2, .invl-2 h2, .tenth h2{
   background-color: #54dcda;
   padding: 4px 0px;
 }
 
+.bioinfo h2, .tenth h2 {
+  font-size: 60px;
+}
+
 .news h2, .honors h2, .boxes-events h2, .invl-3 h2, .eleventh h2 {
   background-color: #4169e1;
   padding: 4px 0px;
+}
+
+.honors h2, .eleventh h2 {
+  font-size: 60px;
 }
 
 .col-sm-4 h3{
