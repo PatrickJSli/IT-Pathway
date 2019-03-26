@@ -114,7 +114,7 @@ body {
   margin-top: -70px;
 }
 
-.description, .events, .news, .twitter, .bioinfo, .programming-comp, .honors, .events-box {
+.description, .events, .news, .twitter, .bioinfo, .invl-2, .invl-3, .programming-comp, .invl-1, .honors, .events-box {
   margin-top: 25px;
   margin-left: 20px;
   margin-right: 20px;
@@ -134,16 +134,30 @@ body {
   margin: auto;
   color: black
 }
-.description h2, .programming-comp h2 {
+.description h2, .programming-comp h2, .invl-1 h2 {
   background-color: #7af969;
+  padding: 4px 0px;
 }
 
-.events h2, .bioinfo h2, .blahtest h2, #month h2{
+.events h2, .bioinfo h2, .blahtest h2, #month h2, .invl-2 h2{
   background-color: #54dcda;
+  padding: 4px 0px;
 }
 
-.news h2, .honors h2, .boxes-events h2 {
+.news h2, .honors h2, .boxes-events h2, .invl-3 h2 {
   background-color: #4169e1;
+  padding: 4px 0px;
+}
+
+.col-sm-4 h3{
+  background-color: #e0cc47;
+  padding: 4px 0px;
+  margin-top: -5px;
+  margin-bottom: 0px;
+}
+
+.col-sm-4 h3:hover{
+  background-color: #c9b52a;
 }
 
 .twitter h2 {
@@ -174,6 +188,10 @@ body {
 
 #title-aca img {
   margin: 10px;
+}
+
+#title-inv h2{
+  width: 30%;
 }
 
 header {
