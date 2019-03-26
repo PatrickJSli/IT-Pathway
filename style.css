@@ -169,7 +169,13 @@ body {
 .twitter h2 {
   background-color: #4169e1;
 }
+.news p, .events p{
+  font-size: 15px;
+}
 
+.events a {
+  color: white !important;
+}
 .space {
   height: 11vh
 }
