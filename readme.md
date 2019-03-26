@@ -1,8 +1,19 @@
-# IT Pathway Website
-> Our product is a website for the AET IT Pathway.
+# IT Pathway Website Info
+> Our product is a website for the AET IT Pathway. Created by Patrick Sliwinski and Tamsen McKerley
 
 ## Website link
 https://Patrickjsli.github.io/IT-Pathway/
+
+## Status
+* Incomplete features as of now:
+    * Faculty photos
+    * Calendar events automatically appear in the home page events section
+    * Club information
+    * Calendar that can retrieve information from the county's Calendar
+    * Work out responsive design
+* Time needed to complete said features:
+    * Some can only be completed with proficient knowledge of JavaScript (ex. the calendar), but the others should only require one more class period.
+* Help needed: none.
 
 ## Commit Log
 
@@ -90,14 +101,3 @@ During a meeting with Mr. Lewis, he requested the following changes:
 * Detailed information about the program and specific classes should not be included.
 * There should not be any sections relating to applying to ACL
 * The curriculum descriptions should be general and not go into the the specifics of the class, in part because much of the curriculum for AET is still in development
-
-## Status
-* Incomplete features as of now:
-    * Faculty photos
-    * Calendar events automatically appear in the home page events section
-    * Club information
-    * Calendar that can retrieve information from the county's Calendar
-    * Work out responsive design
-* Time needed to complete said features:
-    * Some can only be completed with proficient knowledge of JavaScript (ex. the calendar), but the others should only require one more class period.
-* Help needed: none.
