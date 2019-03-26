@@ -472,6 +472,7 @@ section .row img {
 .back {
 	transform: rotateY(180deg);
   background-color: #4169e1;
+  overflow: hidden;
 }
 
 
