@@ -443,11 +443,19 @@ section .row img {
 }
 .class-box {
   text-align: center;
-  margin-top: 5vh;
+  margin-top: 5vh !important;
+  background-color: gray;
+  width: 75%;
+  margin: auto;
+
+}
+.class-content p {
+  font-size: 20px;
 }
 .class-content {
   position: relative;
   top: 50px;
   overflow: visible;
   margin-bottom: 20px;
+
 }
