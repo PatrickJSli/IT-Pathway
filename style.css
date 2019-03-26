@@ -138,7 +138,7 @@ body {
 #events-table {
   width: 95%;
   margin: auto;
-  color: black
+  color: black;
 }
 .description h2, .programming-comp h2, .invl-1 h2, .ninth h2, .twelth h2{
   background-color: #7af969;
@@ -181,7 +181,13 @@ body {
 .twitter h2 {
   background-color: #4169e1;
 }
+.news p, .events p{
+  font-size: 15px;
+}
 
+.events a {
+  color: white !important;
+}
 .space {
   height: 11vh
 }
@@ -190,8 +196,21 @@ body {
   background-blend-mode: lighten;
   text-align: center;
   color: white;
-  width: 60%
+  width: 60%;
   margin: auto;
+}
+
+.sponsors {
+  background-color: lightgray !important;
+}
+
+#black-text {
+  color: black !important;
+}
+.sponsors table {
+  width: 95%;
+  margin: auto;
+  color: black;
 }
 
 .title h2 {
