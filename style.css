@@ -121,7 +121,6 @@ body {
   margin-top: -70px;
 }
 
-
 .description, .events, .news, .twitter, .bioinfo, .invl-2, .invl-3, .programming-comp, .invl-1, .honors, .events-box {
   margin-top: 25px;
   margin-left: 20px;
@@ -141,8 +140,7 @@ body {
   margin: auto;
   color: black;
 }
-
-.description h2, .programming-comp h2, .invl-1 h2, .twelth h2 {
+.description h2, .programming-comp h2, .invl-1 h2, .ninth h2, .twelth h2{
   background-color: #7af969;
   padding: 4px 0px;
 }
@@ -455,4 +453,14 @@ section .row img {
 
 .boxes-faculty h2 {
   font-size: 60px;
+}
+.class-box {
+  text-align: center;
+  margin-top: 5vh;
+}
+.class-content {
+  position: relative;
+  top: 50px;
+  overflow: visible;
+  margin-bottom: 20px;
 }
