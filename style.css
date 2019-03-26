@@ -62,7 +62,7 @@ body {
   overflow: visible;
 }
 
-#club-text, #faculty-text, #academics-text {
+#club-text, #faculty-text, #academic-text {
   background-color: white;
   color: black;
   font-size: 6em;
@@ -134,15 +134,15 @@ body {
   margin: auto;
   color: black
 }
-.description h2, .programming-comp h2 {
+.description h2, .programming-comp h2, .ninth h2, .twelth h2 {
   background-color: #7af969;
 }
 
-.events h2, .bioinfo h2, .blahtest h2, #month h2{
+.events h2, .bioinfo h2, .blahtest h2, #month h2, .tenth h2{
   background-color: #54dcda;
 }
 
-.news h2, .honors h2, .boxes-events h2 {
+.news h2, .honors h2, .boxes-events h2, .eleventh h2  {
   background-color: #4169e1;
 }
 
@@ -326,7 +326,7 @@ section .row img {
 .news, .events, .twitter, .description {
   min-height: 520px;
 }
-.club-background {
+.club-background, .academic-background {
   display: flex;
   align-items: center;
   position: relative;
@@ -334,16 +334,16 @@ section .row img {
   color: white;
   height: 50vh;
 }
-.club-background img {
+.club-background img, .academic-background img {
   width: 100%;
   height: 100%;
 }
 
-.club-background:hover {
+.club-background:hover, .academic-background:hover {
   -webkit-transform: scale(1.1);
   transform: scale(1.1);
 }
-.club-content {
+.club-content, .academic-content {
   position: absolute;
   top: 50%;
   left: 50%;
