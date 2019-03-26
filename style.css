@@ -139,7 +139,7 @@ body {
 #events-table {
   width: 95%;
   margin: auto;
-  color: black
+  color: black;
 }
 
 .description h2, .programming-comp h2, .invl-1 h2, .twelth h2 {
@@ -180,8 +180,21 @@ body {
   background-blend-mode: lighten;
   text-align: center;
   color: white;
-  width: 60%
+  width: 60%;
   margin: auto;
+}
+
+.sponsors {
+  background-color: lightgray !important;
+}
+
+#black-text {
+  color: black !important;
+}
+.sponsors table {
+  width: 95%;
+  margin: auto;
+  color: black;
 }
 
 .title h2 {
