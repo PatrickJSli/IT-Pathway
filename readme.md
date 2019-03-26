@@ -91,6 +91,7 @@ During a meeting with Mr. Lewis, he requested the following changes:
     * Calendar events automatically appear in the home page events section
     * Club information
     * Calendar that can retrieve information from the county's Calendar
+    * Work out responsive design
 * Time needed to complete said features:
     * Some can only be completed with proficient knowledge of JavaScript (ex. the calendar), but the others should only require one more class period.
 * Help needed: none.
