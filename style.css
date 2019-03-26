@@ -447,6 +447,7 @@ section .row img {
   background-color: gray;
   width: 75%;
   margin: auto;
+  font-weight: bold;
 
 }
 .class-content p {
