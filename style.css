@@ -58,20 +58,21 @@ body {
   height: 100vh;
 }
 
-.header-club, .header-faculty {
+.header-club, .header-faculty, .header-academics {
   display: flex;
   align-items: center;
   background-size: cover;
   max-width: 100%;
-  height: 60vh;
+  width: auto;
+  height: 40vh;
+  overflow: visible;
 }
 
-#club-text, #faculty-text {
+#club-text, #faculty-text, #academic-text {
   background-color: white;
   color: black;
-  border-style: solid;
-  border-radius: 3px;
-  font-size: 2.7em;
+  font-size: 6em;
+  overflow: visible;
 }
 
 .slideshow h2{
@@ -120,12 +121,16 @@ body {
   margin-top: -70px;
 }
 
+<<<<<<< HEAD
+.description, .events, .news, .twitter, .bioinfo, .programming-comp, .honors, .events-box {
+  margin-top: 0px;
+=======
 .description, .events, .news, .twitter, .bioinfo, .invl-2, .invl-3, .programming-comp, .invl-1, .honors, .events-box {
   margin-top: 25px;
+>>>>>>> acb70623c0677014d44c4e186edb13044e1d5931
   margin-left: 20px;
   margin-right: 20px;
   background-color: black;
-  height: auto;
 }
 
 .events-box {
@@ -140,17 +145,29 @@ body {
   margin: auto;
   color: black
 }
+<<<<<<< HEAD
+.description h2, .programming-comp h2, .ninth h2, .twelth h2 {
+=======
 .description h2, .programming-comp h2, .invl-1 h2 {
+>>>>>>> acb70623c0677014d44c4e186edb13044e1d5931
   background-color: #7af969;
   padding: 4px 0px;
 }
 
+<<<<<<< HEAD
+.events h2, .bioinfo h2, .blahtest h2, #month h2, .tenth h2{
+=======
 .events h2, .bioinfo h2, .blahtest h2, #month h2, .invl-2 h2{
+>>>>>>> acb70623c0677014d44c4e186edb13044e1d5931
   background-color: #54dcda;
   padding: 4px 0px;
 }
 
+<<<<<<< HEAD
+.news h2, .honors h2, .boxes-events h2, .eleventh h2  {
+=======
 .news h2, .honors h2, .boxes-events h2, .invl-3 h2 {
+>>>>>>> acb70623c0677014d44c4e186edb13044e1d5931
   background-color: #4169e1;
   padding: 4px 0px;
 }
@@ -175,7 +192,7 @@ body {
   background-blend-mode: lighten;
   text-align: center;
   color: white;
-  width: 40%;
+  width: 60%
   margin: auto;
 }
 
@@ -184,7 +201,7 @@ body {
   background-blend-mode: lighten;
   text-align: center;
   color: white;
-  width: 35%;
+  width: 100% !important;
   margin: auto;
 }
 
@@ -350,25 +367,28 @@ section .row img {
 .news, .events, .twitter, .description {
   min-height: 520px;
 }
-.club-background {
-  min-height: 600px;
+.club-background, .academic-background {
   display: flex;
   align-items: center;
-  background-image: url(AET_Building.png);
-  background-size: cover;
+  position: relative;
+  text-align: center;
+  color: white;
+  height: 50vh;
+}
+.club-background img, .academic-background img {
+  width: 100%;
+  height: 100%;
 }
 
-.club-background:hover {
+.club-background:hover, .academic-background:hover {
   -webkit-transform: scale(1.1);
   transform: scale(1.1);
 }
-.club-content {
-  font-size: 24px;
-  margin-left: 15%;
-  margin-right: 15%;
-  padding-top: 200px;
-  padding-bottom: 200px;
-  overflow: auto;
+.club-content, .academic-content {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
 
 /* entire container, keeps perspective */
@@ -426,8 +446,10 @@ section .row img {
 
 
 .boxes-faculty {
+  position: relative;
   color: white;
   text-align: center;
+  bottom: 95px;
 }
 
 .boxes-faculty h2 {
