@@ -116,11 +116,10 @@ body {
 }
 
 .description, .events, .news, .twitter, .bioinfo, .programming-comp, .honors, .events-box {
-  margin-top: 25px;
+  margin-top: 0px;
   margin-left: 20px;
   margin-right: 20px;
   background-color: black;
-  height: auto;
 }
 
 .events-box {
@@ -328,11 +327,16 @@ section .row img {
   min-height: 520px;
 }
 .club-background {
-  min-height: 600px;
   display: flex;
   align-items: center;
-  background-image: url(AET_Building.png);
-  background-size: cover;
+  position: relative;
+  text-align: center;
+  color: white;
+  height: 50vh;
+}
+.club-background img {
+  width: 100%;
+  height: 100%;
 }
 
 .club-background:hover {
@@ -340,12 +344,10 @@ section .row img {
   transform: scale(1.1);
 }
 .club-content {
-  font-size: 24px;
-  margin-left: 15%;
-  margin-right: 15%;
-  padding-top: 200px;
-  padding-bottom: 200px;
-  overflow: auto;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
 
 /* entire container, keeps perspective */
