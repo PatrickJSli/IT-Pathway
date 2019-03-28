@@ -143,30 +143,30 @@ body {
   margin: auto;
   color: black;
 }
-.description h2, .programming-comp h2, .invl-1 h2, .ninth h2, .twelth h2{
+.invl-1 h2{
   background-color: #7af969;
   padding: 4px 0px;
 }
 
-.programming-comp h2, .ninth h2, .twelth h2 {
+.programming-comp h2{
   font-size: 60px;
 }
 
-.events h2, .bioinfo h2, .blahtest h2, #month h2, .invl-2 h2, .tenth h2{
+.blahtest h2, #month h2, .invl-2 h2{
   background-color: #54dcda;
   padding: 4px 0px;
 }
 
-.bioinfo h2, .tenth h2 {
+.bioinfo h2{
   font-size: 60px;
 }
 
-.news h2, .honors h2, .boxes-events h2, .invl-3 h2, .eleventh h2 {
+.news h2, .honors h2, .boxes-events h2, .invl-3 h2, .eleventh h2, .tenth h2, .ninth h2, .twelth h2, .bioinfo h2, .programming-comp h2, .description h2, .events h2 {
   background-color: #4169e1;
   padding: 4px 0px;
 }
 
-.honors h2, .eleventh h2 {
+.honors h2, .eleventh h2, .tenth h2, .ninth h2, .twelth h2 {
   font-size: 60px;
 }
 
