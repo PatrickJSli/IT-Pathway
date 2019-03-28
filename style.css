@@ -31,6 +31,10 @@ body {
   padding-bottom: 10px;
 }
 
+.academic-content h2, .club-content h2 {
+  font-size: 8vh !important;
+}
+
 .navtext {
   margin-top: -22px;
 }
