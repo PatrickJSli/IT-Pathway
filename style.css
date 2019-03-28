@@ -120,10 +120,19 @@ body {
   background-repeat: repeat;
 
 }
+.boxes-academics {
+  margin-top: -18vh;
+}
 .boxes-clubs {
-  margin-top: -70px;
+  margin-top: -24vh;
 }
 
+.boxes-events {
+  margin-top: -24vh;
+}
+.boxes-faculty {
+  margin-top: -7vh;
+}
 .description, .events, .news, .twitter, .bioinfo, .invl-2, .invl-3, .programming-comp, .invl-1, .honors, .events-box {
   margin-top: 25px;
   margin-left: 20px;
@@ -192,7 +201,7 @@ body {
   color: white !important;
 }
 .space {
-  height: 11vh
+  height: 26vh;
 }
 .title p {
   background-color: rgba(0,0,0,.0);
