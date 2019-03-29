@@ -95,9 +95,27 @@ https://Patrickjsli.github.io/IT-Pathway/
     *  added more relevant photos to the academics page (Patrick)
     *  added more relevant photos to the club page (Patrick)
     *  minor aesthetic changes across all the pages (Patrick)
+0.1.7 3-28-2019
+    *  made header opaque (Tamsen)
+    *  change front page image height (Tamsen)
+    *  fix header widths (Tamsen)
+    *  fix header spacing (Tamsen)
+    *  added TEALS to get involved page (Patrick)
+    *  added club links to the under construction page (Patrick)
+    *  change navbar to collapsable (Tamsen)
+    *  Merge branch 'master' of https://github.com/PatrickJSli/IT-Pathway (Tamsen)
+    *  fix header dropdown (Tamsen)
+    *  update date in footer (Patrick)
+    *  Merge branch 'master' of https://github.com/PatrickJSli/IT-Pathway (Patrick)
+    *  add faculty photos (Tamsen)
+    *  Merge branch 'master' of https://github.com/PatrickJSli/IT-Pathway (Tamsen)
+
 
 ## Customer Requests
 During a meeting with Mr. Lewis, he requested the following changes:
 * Detailed information about the program and specific classes should not be included.
 * There should not be any sections relating to applying to ACL
-* The curriculum descriptions should be general and not go into the the specifics of the class, in part because much of the curriculum for AET is still in development
+* The curriculum descriptions should be general and not go into the specifics of the class, in part because much of the curriculum for AET is still in development
+* Change header backgrounds to be more consistent colors
+* Add a navbar that resizes
+* Take away gray box on home page image, find another way to make the text visible
