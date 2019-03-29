@@ -90,12 +90,12 @@ https://Patrickjsli.github.io/IT-Pathway/
     *  update home page (Tamsen)
     *  fix image transparency (Tamsen)
     *  add geometric background (Tamsen)
-0.1.6 3-26-2019
+* 0.1.6 3-26-2019
     *  changed academic headers to resize better (Patrick)
     *  added more relevant photos to the academics page (Patrick)
     *  added more relevant photos to the club page (Patrick)
     *  minor aesthetic changes across all the pages (Patrick)
-0.1.7 3-28-2019
+* 0.1.7 3-28-2019
     *  made header opaque (Tamsen)
     *  change front page image height (Tamsen)
     *  fix header widths (Tamsen)
